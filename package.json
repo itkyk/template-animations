@@ -1,0 +1,27 @@
+{
+  "name": "template-animations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itkyk/template-animations.git"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itkyk/template-animations/issues"
+  },
+  "homepage": "https://github.com/itkyk/template-animations#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
